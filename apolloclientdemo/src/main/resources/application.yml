@@ -1,0 +1,7 @@
+apollo:
+  meta: http://127.0.0.1:8080
+  bootstrap:
+    namespaces: monitor.properties,application
+app:
+  id: 100004458
+batch: 18
